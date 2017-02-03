@@ -1,0 +1,21 @@
+{
+    "file": "site\\templates\\contact.php",
+    "textdomain": "site--templates--contact-php",
+    "translations": {
+        "271735deec4f1c74181c156ef84ddb62": {
+            "text": "Name"
+        },
+        "46b1d6ad45561985c4df421a151a3aa7": {
+            "text": "Email"
+        },
+        "8a9448b156c6f510871a0d5e3a94d840": {
+            "text": "Topic"
+        },
+        "0e5f4696d4d2bab36274af8894305120": {
+            "text": "Message"
+        },
+        "ddbd3bf2da730f1cd58aa4c2da4f64be": {
+            "text": "Submit"
+        }
+    }
+}
